@@ -17,9 +17,6 @@ public class binarySearch {
             }
             midten=(forst+sist)/2;
         }
-        if(forst>sist){
-            return false;
-        }
         return false;
     }
 
